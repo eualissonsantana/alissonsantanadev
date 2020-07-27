@@ -1,6 +1,5 @@
 ## Olá, meu nome é Alisson! 👋
 
-
 <a target="_blank" href="mailto:alissonsantanapo@gmail.com">
   <img align="left" alt="Gmail" width="27px" src="https://user-images.githubusercontent.com/40476367/88534927-6d804180-cfdf-11ea-88d9-393e5ef4e2ad.png" />
 </a>
@@ -10,7 +9,7 @@
 <a target="_blank" href="https://www.instagram.com/alissonsantana.p/">
   <img align="left" alt="Instagram" width="22px" src="https://user-images.githubusercontent.com/40476367/88535028-986a9580-cfdf-11ea-8a74-8689b625b3a3.png" />
 </a>
-<br/>
+
 ### Sobre mim
 - :mortar_board: Técnico em Desenvolvimento de Sistemas - **SENAI**
 - :computer: Graduando em Sistemas da Informação - **IFBA** / _Campus Feira de Santana_
