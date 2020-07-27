@@ -10,6 +10,8 @@
   <img align="left" alt="Instagram" width="22px" src="https://user-images.githubusercontent.com/40476367/88535028-986a9580-cfdf-11ea-8a74-8689b625b3a3.png" />
 </a>
 
+
+
 ### Sobre mim
 - :mortar_board: Técnico em Desenvolvimento de Sistemas - **SENAI**
 - :computer: Graduando em Sistemas da Informação - **IFBA** / _Campus Feira de Santana_
