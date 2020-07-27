@@ -11,7 +11,7 @@
 </a>
 
 
-
+&nbsp;
 ### Sobre mim
 - :mortar_board: Técnico em Desenvolvimento de Sistemas - **SENAI**
 - :computer: Graduando em Sistemas da Informação - **IFBA** / _Campus Feira de Santana_
