@@ -32,7 +32,9 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 #### Minhas estatísticas no GitHub
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alissongp&hide=issues&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alissongp&hide=issues&count_private=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alissongp&hide=php&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **alissongp/alissongp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
